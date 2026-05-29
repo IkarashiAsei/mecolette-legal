@@ -17,3 +17,9 @@ GitHub Pagesは、`main` ブランチの `/(root)` から公開します。
 - Support URL: `https://ikarashiasei.github.io/mecolette-legal/support/`
 
 独自ドメインへ移行する場合は、App Store Connectとアプリ内リンクのURLもあわせて更新してください。
+
+## Design Reference
+
+- `docs/apple-web-design-reference.md`
+
+この参照資料は `mecolette-legal` のWebページ用です。MECOLETTE iOSアプリには適用しません。
